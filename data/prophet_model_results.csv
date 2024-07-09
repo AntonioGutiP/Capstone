@@ -1,0 +1,711 @@
+nombre,params,metrics
+ES1,"{'seasonality_prior_scale': 1.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.001}","horizon     201 days 00:00:00
+mse                  0.000477
+rmse                 0.021556
+mae                  0.017463
+mdape                0.256721
+smape                 0.31128
+coverage             0.776568"
+ES1,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.5, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.000714
+rmse                 0.025768
+mae                  0.021716
+mdape                0.332564
+smape                0.407224
+coverage             0.724222"
+ES1,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.01}","horizon     201 days 00:00:00
+mse                  0.000832
+rmse                 0.027468
+mae                  0.023311
+mdape                0.359949
+smape                 0.46002
+coverage             0.615859"
+ES1,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 1.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.000509
+rmse                 0.022134
+mae                  0.018057
+mdape                0.267128
+smape                0.322806
+coverage              0.80305"
+ES1,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.5}","horizon     201 days 00:00:00
+mse                  0.004018
+rmse                 0.058126
+mae                  0.054512
+mdape                0.839475
+smape                1.401698
+coverage             0.896595"
+ES1,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.001379
+rmse                 0.034703
+mae                  0.030607
+mdape                0.471575
+smape                 0.62855
+coverage             0.505859"
+ES1,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.5}","horizon     201 days 00:00:00
+mse                  0.003247
+rmse                 0.052464
+mae                  0.048881
+mdape                0.763141
+smape                1.296398
+coverage             0.857078"
+ES1,"{'seasonality_prior_scale': 1.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.001}","horizon     201 days 00:00:00
+mse                  0.001624
+rmse                 0.036698
+mae                   0.03249
+mdape                0.556902
+smape                0.774939
+coverage             0.467963"
+ES1,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.000567
+rmse                 0.023237
+mae                  0.019132
+mdape                0.284292
+smape                0.346548
+coverage             0.785717"
+ES1,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 1.0}","horizon     201 days 00:00:00
+mse                  0.016627
+rmse                 0.122266
+mae                  0.120323
+mdape                2.022154
+smape                1.937303
+coverage             0.793985"
+ES11,"{'seasonality_prior_scale': 1.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.001}","horizon     201 days 00:00:00
+mse                  0.005869
+rmse                 0.076039
+mae                  0.070886
+mape                 0.374376
+mdape                0.380965
+smape                0.472374
+coverage             0.088564"
+ES11,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.5, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.001941
+rmse                 0.042964
+mae                  0.035714
+mape                 0.177905
+mdape                0.175009
+smape                0.200762
+coverage             0.558091"
+ES11,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.01}","horizon     201 days 00:00:00
+mse                  0.002629
+rmse                 0.050388
+mae                  0.043453
+mape                 0.219918
+mdape                0.222663
+smape                0.255024
+coverage             0.422045"
+ES11,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 1.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.001428
+rmse                 0.036728
+mae                  0.029515
+mape                 0.147589
+mdape                0.140409
+smape                0.162292
+coverage             0.645511"
+ES11,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.5}","horizon     201 days 00:00:00
+mse                  0.017329
+rmse                  0.12271
+mae                  0.118683
+mape                  0.60642
+mdape                0.609823
+smape                0.927206
+coverage             0.422516"
+ES11,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.000951
+rmse                 0.030382
+mae                  0.023884
+mape                  0.12646
+mdape                0.106617
+smape                0.131264
+coverage             0.755927"
+ES11,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.5}","horizon     201 days 00:00:00
+mse                  0.016837
+rmse                 0.119605
+mae                  0.115277
+mape                 0.586584
+mdape                0.590572
+smape                 0.90235
+coverage             0.520196"
+ES11,"{'seasonality_prior_scale': 1.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.001}","horizon     201 days 00:00:00
+mse                  0.001381
+rmse                 0.036413
+mae                  0.029184
+mape                 0.147491
+mdape                0.141638
+smape                0.162041
+coverage             0.648696"
+ES11,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.001382
+rmse                  0.03611
+mae                  0.028952
+mape                 0.144883
+mdape                0.136561
+smape                0.158659
+coverage             0.656586"
+ES11,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 1.0}","horizon     201 days 00:00:00
+mse                  0.020316
+rmse                 0.138435
+mae                  0.135294
+mape                 0.720889
+mdape                0.724215
+smape                1.185926
+coverage             0.788459"
+ES12,"{'seasonality_prior_scale': 1.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.001}","horizon     200 days 14:02:55.609756098
+mse                            0.001508
+rmse                           0.037943
+mae                            0.030825
+mape                            0.13115
+mdape                          0.107918
+smape                          0.129375
+coverage                       0.697142"
+ES12,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.5, 'changepoint_prior_scale': 0.1}","horizon     200 days 14:02:55.609756098
+mse                            0.001705
+rmse                           0.040068
+mae                            0.032951
+mape                           0.137074
+mdape                          0.115781
+smape                          0.138647
+coverage                       0.712628"
+ES12,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.01}","horizon     200 days 14:02:55.609756098
+mse                            0.001735
+rmse                           0.040538
+mae                            0.033324
+mape                           0.137366
+mdape                          0.118944
+smape                          0.140479
+coverage                       0.680158"
+ES12,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 1.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.1}","horizon     200 days 14:02:55.609756098
+mse                              0.0015
+rmse                           0.038027
+mae                            0.030599
+mape                           0.139757
+mdape                          0.099227
+smape                          0.127107
+coverage                       0.760035"
+ES12,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.5}","horizon     200 days 14:02:55.609756098
+mse                            0.001415
+rmse                           0.036949
+mae                            0.029695
+mape                           0.128675
+mdape                          0.103733
+smape                          0.124522
+coverage                       0.822552"
+ES12,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.1}","horizon     200 days 14:02:55.609756098
+mse                            0.001433
+rmse                           0.037161
+mae                            0.029914
+mape                           0.134437
+mdape                          0.099241
+smape                          0.124554
+coverage                       0.746451"
+ES12,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.5}","horizon     200 days 14:02:55.609756098
+mse                            0.001826
+rmse                           0.041516
+mae                            0.033469
+mape                           0.152393
+mdape                           0.11228
+smape                          0.137002
+coverage                       0.827192"
+ES12,"{'seasonality_prior_scale': 1.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.001}","horizon     200 days 14:02:55.609756098
+mse                            0.002203
+rmse                           0.045734
+mae                            0.038279
+mape                            0.15308
+mdape                          0.143155
+smape                          0.163129
+coverage                       0.640847"
+ES12,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.1}","horizon     200 days 14:02:55.609756098
+mse                            0.001478
+rmse                           0.037741
+mae                            0.030397
+mape                           0.138264
+mdape                          0.099463
+smape                          0.126352
+coverage                       0.757431"
+ES12,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 1.0}","horizon     200 days 14:02:55.609756098
+mse                            0.001902
+rmse                           0.042208
+mae                            0.034867
+mape                           0.142022
+mdape                          0.125298
+smape                           0.14737
+coverage                       0.880035"
+ES2,"{'seasonality_prior_scale': 1.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.001}","horizon     201 days 00:00:00
+mse                  0.001948
+rmse                 0.043721
+mae                   0.03534
+mape                 0.191246
+mdape                0.167287
+smape                0.198813
+coverage             0.734824"
+ES2,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.5, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.001669
+rmse                 0.040404
+mae                  0.032066
+mape                 0.181231
+mdape                0.149353
+smape                0.177121
+coverage             0.777355"
+ES2,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.01}","horizon     201 days 00:00:00
+mse                  0.001673
+rmse                 0.040551
+mae                  0.032399
+mape                 0.181564
+mdape                0.149853
+smape                0.179878
+coverage             0.754067"
+ES2,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 1.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.001737
+rmse                 0.041147
+mae                  0.032957
+mape                 0.204098
+mdape                0.152118
+smape                0.176641
+coverage             0.772109"
+ES2,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.5}","horizon     201 days 00:00:00
+mse                  0.005603
+rmse                  0.07293
+mae                   0.06393
+mape                 0.389219
+mdape                0.324994
+smape                 0.30027
+coverage             0.874382"
+ES2,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.001745
+rmse                 0.041227
+mae                  0.032992
+mape                 0.205555
+mdape                0.152661
+smape                 0.17659
+coverage             0.753739"
+ES2,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.5}","horizon     201 days 00:00:00
+mse                  0.009954
+rmse                 0.095334
+mae                  0.087212
+mape                 0.514778
+mdape                0.449077
+smape                0.378516
+coverage             0.868053"
+ES2,"{'seasonality_prior_scale': 1.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.001}","horizon     201 days 00:00:00
+mse                  0.002058
+rmse                 0.044925
+mae                  0.036385
+mape                 0.196532
+mdape                0.169358
+smape                0.207308
+coverage             0.707934"
+ES2,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.001662
+rmse                 0.040264
+mae                  0.032212
+mape                 0.198117
+mdape                0.145638
+smape                0.173388
+coverage             0.772346"
+ES2,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 1.0}","horizon     201 days 00:00:00
+mse                    0.0017
+rmse                 0.040709
+mae                  0.032448
+mape                 0.185314
+mdape                0.149566
+smape                0.178798
+coverage              0.92011"
+ES3,"{'seasonality_prior_scale': 1.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.001}","horizon     201 days 00:00:00
+mse                  0.000954
+rmse                 0.030119
+mae                   0.02436
+mape                 0.265449
+mdape                0.197082
+smape                0.233639
+coverage              0.74946"
+ES3,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.5, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.002166
+rmse                 0.045258
+mae                  0.037596
+mape                  0.32873
+mdape                0.332731
+smape                0.401305
+coverage             0.609436"
+ES3,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.01}","horizon     201 days 00:00:00
+mse                  0.001599
+rmse                 0.038327
+mae                  0.031262
+mape                 0.282121
+mdape                0.260026
+smape                0.307285
+coverage             0.610319"
+ES3,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 1.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.005461
+rmse                 0.072581
+mae                  0.066746
+mape                 0.603237
+mdape                0.636869
+smape                0.912449
+coverage              0.20427"
+ES3,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.5}","horizon     201 days 00:00:00
+mse                  0.018553
+rmse                 0.122988
+mae                   0.11715
+mape                 1.003462
+mdape                0.994467
+smape                1.573552
+coverage             0.887965"
+ES3,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.013427
+rmse                 0.107599
+mae                  0.102081
+mape                 0.878847
+mdape                0.887049
+smape                1.527469
+coverage             0.097349"
+ES3,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.5}","horizon     201 days 00:00:00
+mse                  0.027083
+rmse                 0.150051
+mae                  0.143629
+mape                 1.246528
+mdape                1.227854
+smape                1.763018
+coverage             0.624821"
+ES3,"{'seasonality_prior_scale': 1.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.001}","horizon     201 days 00:00:00
+mse                  0.001762
+rmse                 0.040733
+mae                  0.033678
+mape                 0.322126
+mdape                0.314908
+smape                0.391114
+coverage             0.535972"
+ES3,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.014837
+rmse                 0.116057
+mae                   0.11209
+mape                 1.042036
+mdape                1.064802
+smape                1.638558
+coverage             0.038426"
+ES3,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 1.0}","horizon     201 days 00:00:00
+mse                  0.008592
+rmse                  0.08755
+mae                  0.082271
+mape                 0.831097
+mdape                0.837382
+smape                1.189773
+coverage             0.879608"
+ES4,"{'seasonality_prior_scale': 1.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.001}","horizon     201 days 00:00:00
+mse                  0.001392
+rmse                 0.035987
+mae                  0.031302
+mape                 0.211415
+mdape                0.210734
+smape                0.244759
+coverage             0.464234"
+ES4,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.5, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.000726
+rmse                 0.026073
+mae                  0.021552
+mape                 0.146979
+mdape                0.137403
+smape                0.158992
+coverage             0.764354"
+ES4,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.01}","horizon     201 days 00:00:00
+mse                  0.000706
+rmse                 0.025709
+mae                  0.021147
+mape                 0.143987
+mdape                0.134042
+smape                0.155699
+coverage             0.673536"
+ES4,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 1.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.000841
+rmse                 0.028164
+mae                  0.023459
+mape                 0.158318
+mdape                0.148948
+smape                0.175332
+coverage             0.734067"
+ES4,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.5}","horizon     201 days 00:00:00
+mse                  0.005468
+rmse                 0.069225
+mae                  0.066116
+mape                 0.450091
+mdape                0.449982
+smape                0.613006
+coverage             0.312568"
+ES4,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.002228
+rmse                 0.044895
+mae                  0.040849
+mape                 0.275545
+mdape                0.274204
+smape                0.331851
+coverage             0.430916"
+ES4,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.5}","horizon     201 days 00:00:00
+mse                  0.006157
+rmse                  0.07299
+mae                  0.069891
+mape                 0.475512
+mdape                0.475061
+smape                0.664653
+coverage             0.270738"
+ES4,"{'seasonality_prior_scale': 1.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.001}","horizon     201 days 00:00:00
+mse                  0.000863
+rmse                 0.028194
+mae                  0.023576
+mape                 0.160092
+mdape                0.155897
+smape                0.176866
+coverage             0.633348"
+ES4,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.000715
+rmse                 0.026017
+mae                  0.021379
+mape                 0.145268
+mdape                 0.13378
+smape                0.158074
+coverage             0.772002"
+ES4,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 1.0}","horizon     201 days 00:00:00
+mse                  0.007574
+rmse                 0.082081
+mae                  0.079512
+mape                 0.552409
+mdape                 0.56827
+smape                0.817113
+coverage             0.554905"
+ES5,"{'seasonality_prior_scale': 1.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.001}","horizon     201 days 00:00:00
+mse                   0.00057
+rmse                 0.023419
+mae                  0.018186
+mape                 0.249192
+mdape                  0.1777
+smape                0.223387
+coverage              0.77658"
+ES5,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.5, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.000555
+rmse                 0.023181
+mae                  0.018136
+mape                 0.265009
+mdape                0.174405
+smape                0.223228
+coverage             0.773121"
+ES5,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.01}","horizon     201 days 00:00:00
+mse                  0.000551
+rmse                 0.023115
+mae                    0.0181
+mape                 0.265989
+mdape                0.174159
+smape                0.222896
+coverage              0.76968"
+ES5,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 1.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.000573
+rmse                  0.02349
+mae                  0.018238
+mape                 0.252824
+mdape                0.178488
+smape                0.224221
+coverage             0.775149"
+ES5,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.5}","horizon     201 days 00:00:00
+mse                  0.011673
+rmse                 0.097999
+mae                  0.093656
+mape                 1.021527
+mdape                1.018198
+smape                1.551958
+coverage             0.646284"
+ES5,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.003938
+rmse                 0.057244
+mae                  0.052865
+mape                 0.568176
+mdape                0.563803
+smape                0.835673
+coverage             0.327534"
+ES5,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.5}","horizon     201 days 00:00:00
+mse                  0.002078
+rmse                 0.041896
+mae                  0.036837
+mape                 0.411197
+mdape                0.381071
+smape                0.484642
+coverage             0.963783"
+ES5,"{'seasonality_prior_scale': 1.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.001}","horizon     201 days 00:00:00
+mse                  0.000614
+rmse                 0.024276
+mae                  0.018893
+mape                 0.253003
+mdape                0.184775
+smape                0.237504
+coverage             0.764902"
+ES5,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.000585
+rmse                 0.023707
+mae                  0.018405
+mape                 0.253225
+mdape                0.180854
+smape                0.226146
+coverage             0.772548"
+ES5,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 1.0}","horizon     201 days 00:00:00
+mse                  0.001199
+rmse                 0.033834
+mae                   0.02812
+mape                 0.311254
+mdape                0.306727
+smape                0.368201
+coverage             0.984784"
+ES6,"{'seasonality_prior_scale': 1.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.001}","horizon     201 days 00:00:00
+mse                  0.025721
+rmse                  0.15959
+mae                  0.154105
+mape                 0.469479
+mdape                0.459585
+smape                0.625853
+coverage             0.006181"
+ES6,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.5, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.009196
+rmse                 0.094185
+mae                  0.085015
+mape                 0.249861
+mdape                0.249963
+smape                0.294281
+coverage              0.31807"
+ES6,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.01}","horizon     201 days 00:00:00
+mse                  0.011088
+rmse                 0.103858
+mae                    0.0954
+mape                 0.282714
+mdape                0.283268
+smape                0.338702
+coverage             0.179611"
+ES6,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 1.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.009439
+rmse                 0.096416
+mae                  0.087363
+mape                 0.259455
+mdape                0.260005
+smape                0.307115
+coverage             0.301875"
+ES6,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.5}","horizon     201 days 00:00:00
+mse                   0.02504
+rmse                 0.148697
+mae                  0.139787
+mape                 0.456721
+mdape                0.437517
+smape                0.350608
+coverage               0.7381"
+ES6,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.002727
+rmse                 0.051245
+mae                  0.041059
+mape                 0.124343
+mdape                 0.10744
+smape                0.131857
+coverage             0.778001"
+ES6,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.5}","horizon     201 days 00:00:00
+mse                  0.017146
+rmse                 0.119086
+mae                  0.108914
+mape                 0.360289
+mdape                0.341907
+smape                0.284535
+coverage             0.785464"
+ES6,"{'seasonality_prior_scale': 1.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.001}","horizon     201 days 00:00:00
+mse                  0.017218
+rmse                 0.129589
+mae                  0.122241
+mape                 0.371965
+mdape                0.358655
+smape                0.473545
+coverage             0.061624"
+ES6,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.009494
+rmse                 0.096597
+mae                  0.087603
+mape                 0.259961
+mdape                0.260419
+smape                0.307653
+coverage                0.302"
+ES6,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 1.0}","horizon     201 days 00:00:00
+mse                  0.210261
+rmse                 0.444898
+mae                  0.442153
+mape                 1.359779
+mdape                1.302221
+smape                1.872962
+coverage             0.338933"
+ES8,"{'seasonality_prior_scale': 1.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.001}","horizon     201 days 00:00:00
+mse                  0.000621
+rmse                 0.024299
+mae                  0.019473
+mape                 0.286492
+mdape                0.206667
+smape                 0.23919
+coverage             0.773559"
+ES8,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.5, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.000774
+rmse                 0.026847
+mae                  0.020877
+mape                 0.265176
+mdape                0.210562
+smape                0.257655
+coverage             0.816299"
+ES8,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.01}","horizon     201 days 00:00:00
+mse                   0.00126
+rmse                 0.034116
+mae                  0.027735
+mape                 0.320816
+mdape                0.299233
+smape                0.361492
+coverage             0.608091"
+ES8,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 1.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.001599
+rmse                 0.038465
+mae                  0.032207
+mape                 0.364793
+mdape                0.357403
+smape                0.442109
+coverage             0.593897"
+ES8,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.5}","horizon     201 days 00:00:00
+mse                  0.058617
+rmse                 0.217217
+mae                  0.213949
+mape                   2.6234
+mdape                2.527405
+smape                  1.9088
+coverage             0.743599"
+ES8,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.017007
+rmse                 0.115423
+mae                  0.111591
+mape                 1.282445
+mdape                1.254067
+smape                1.633134
+coverage             0.179858"
+ES8,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.5}","horizon     201 days 00:00:00
+mse                  0.055835
+rmse                 0.213858
+mae                  0.210297
+mape                 2.566467
+mdape                2.471101
+smape                1.914083
+coverage             0.442854"
+ES8,"{'seasonality_prior_scale': 1.0, 'seasonality_mode': 'multiplicative', 'holidays_prior_scale': 10.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.001}","horizon     201 days 00:00:00
+mse                  0.001056
+rmse                 0.031742
+mae                   0.02606
+mape                 0.323895
+mdape                0.297859
+smape                0.364197
+coverage             0.627442"
+ES8,"{'seasonality_prior_scale': 20.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.9, 'changepoint_prior_scale': 0.1}","horizon     201 days 00:00:00
+mse                  0.001448
+rmse                 0.036781
+mae                  0.030408
+mape                 0.345339
+mdape                0.334749
+smape                0.409333
+coverage             0.615782"
+ES8,"{'seasonality_prior_scale': 10.0, 'seasonality_mode': 'additive', 'holidays_prior_scale': 20.0, 'changepoint_range': 0.8, 'changepoint_prior_scale': 1.0}","horizon     201 days 00:00:00
+mse                  0.019849
+rmse                 0.133592
+mae                  0.130923
+mape                 1.597076
+mdape                1.557168
+smape                1.864181
+coverage              0.87094"
